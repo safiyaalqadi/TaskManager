@@ -1,0 +1,15 @@
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\bin\Debug\net8.0\TaskManager.application.deps.json
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\bin\Debug\net8.0\TaskManager.application.dll
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\bin\Debug\net8.0\TaskManager.application.pdb
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.csproj.AssemblyReference.cache
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.AssemblyInfoInputs.cache
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.AssemblyInfo.cs
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.csproj.CoreCompileInputs.cache
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskMana.8B8F1ABB.Up2Date
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.dll
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\refint\TaskManager.application.dll
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\TaskManager.application.pdb
+C:\Users\novo\Desktop\TaskManagerClean\TaskManager.application\obj\Debug\net8.0\ref\TaskManager.application.dll

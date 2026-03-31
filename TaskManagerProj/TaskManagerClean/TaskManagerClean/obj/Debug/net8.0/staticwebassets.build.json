@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qg5ZU6bxBPa2TkAWheF7vNxyqQOeVcpcuzbdsjM8cZA=",
+  "Source": "TaskManagerClean.API",
+  "BasePath": "_content/TaskManagerClean.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
